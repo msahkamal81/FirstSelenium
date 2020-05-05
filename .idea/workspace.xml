@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8d71f6a8-275c-4931-a904-9e5f20c28280" name="Default Changelist" comment="" />
+    <list default="true" id="8d71f6a8-275c-4931-a904-9e5f20c28280" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -15,6 +20,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1bScDMmT2fxnjqe3FuFP4vdpoKc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
     <option name="flattenModules" value="true" />
@@ -25,6 +31,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="ServiceViewManager">
@@ -51,5 +60,12 @@
       <updated>1588628814997</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="94" key="#Project_Structure" timestamp="1588681943333">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="0" y="94" key="#Project_Structure/0.0.1440.900@0.0.1440.900" timestamp="1588681943333" />
+    <state x="0" y="108" key="#Project_Structure/0.23.1440.814@0.23.1440.814" timestamp="1588641237319" />
   </component>
 </project>
